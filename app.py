@@ -15,7 +15,7 @@ import datetime
 from ta.momentum import RSIIndicator
 
 # Page Configuration
-st.set_page_config(page_title="PSX Smart Portfolio & Investment Advisor", layout="wide")
+st.set_page_config(page_title="PSX Smart Portfolio and Investment Advisor", layout="wide")
 
 st.title("PSX Smart Portfolio & Investment Advisor Agent")
 st.markdown("Pakistan Stock Exchange (PSX) AI powered Investment Research aur Portfolio Builder.")
