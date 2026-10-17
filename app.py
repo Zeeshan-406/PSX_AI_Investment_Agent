@@ -17,10 +17,10 @@ from ta.momentum import RSIIndicator
 # Page Configuration
 st.set_page_config(page_title="PSX Smart Portfolio and Investment Advisor", layout="wide")
 
-st.title("PSX Smart Portfolio & Investment Advisor Agent")
+st.title("PSX Smart Portfolio and Investment Advisor Agent")
 st.markdown("Pakistan Stock Exchange (PSX) AI powered Investment Research aur Portfolio Builder.")
 
-# PSX Sector Master List with Realistic Historical Dividend Yields (%)
+# PSX Sector Master List with Realistic Historical Dividend Yields in %
 SECTOR_COMPANIES = {
     "Technology & Telecom": {
         "Systems Limited": {"symbol": "SYS.KA", "div_yield": 1.5},
